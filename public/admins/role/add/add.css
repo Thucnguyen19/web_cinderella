@@ -1,0 +1,13 @@
+.card-header {
+    background-color: rgb(50, 84, 208);
+    color: #ffffff;
+}
+.error_message {
+    margin-top: 10px;
+    padding: 3px 5px;
+}
+.img_admin_slider {
+    height: 80px;
+    width: auto;
+    object-fit: cover;
+}

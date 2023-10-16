@@ -1,0 +1,19 @@
+/* body{
+        font-family: gmv_din_pro !important;
+    } */
+.owl-item {
+    height: 208.033px;
+}
+.bg-secondary {
+    justify-content: space-between;
+}
+.bg-secondary-1 {
+    background-image: url("{{ asset("front-end/products/img/phong-cach-thoi-trang-chau-au.jpg") }}") !important;
+    background-size: cover;
+    height: 230px;
+}
+.bg-secondary-2 {
+    background-image: url("{{ asset("front-end/products/img/banner-thoi-trang-tre-em.jpg") }}") !important;
+    background-size: cover;
+    height: 230px;
+}

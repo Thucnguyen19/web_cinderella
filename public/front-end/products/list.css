@@ -1,0 +1,6 @@
+.position-absolute {
+    z-index: 1;
+    width: calc(100% - 30px);
+    position: absolute !important;
+    background-color: rgb(255, 255, 255) !important;
+}
